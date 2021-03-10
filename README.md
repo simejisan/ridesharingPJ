@@ -1,4 +1,4 @@
-# ridesharingPJ
+# Ridesharing Project
 Requirement Engineering Course 
 
 This ridesharing system is designed to speed up the procedure of finding a suitable
